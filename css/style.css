@@ -1,0 +1,33 @@
+.my-col{
+    height: 80px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+.rosso{
+    background-color: #E60105;
+    color: white;
+    text-shadow: 3px 3px 3px rgb(0, 0, 0);
+}
+.my-row{
+    box-shadow: 0px 0px 23px 5px #000000;
+    margin-top: 100px;
+
+}
+.verde{
+    background-color: #00E63F;
+    color: white;
+    text-shadow: 3px 3px 3px rgb(0, 0, 0);
+}
+.marrone{
+    background-color: #E6C0AE;
+    color: white;
+    text-shadow: 3px 3px 3px rgb(0, 0, 0);
+}
+.blu{
+    background-color: #4C5BE6;
+    color: white;
+    text-shadow: 3px 3px 3px rgb(0, 0, 0);
+
+}
